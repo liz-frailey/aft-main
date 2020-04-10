@@ -1,7 +1,6 @@
 {
   "$id": "answers",
   "$schema": "https://schema.yext.com/config/pages/site-config/v1",
-  "HostName": "${{answers_hostName}}",
   "PinnedProductionBranchName": "refs/heads/master",
   "PinnedStagingBranchName": "refs/heads/build",
   "SiteName": "Answers",
