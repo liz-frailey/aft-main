@@ -17,7 +17,11 @@
       "required": false
     },
     {
-      "id": "ctas",
+      "id": "primaryCTA",
+      "required": false
+    },
+    {
+      "id": "secondaryCTA",
       "required": false
     },
     {

@@ -8,10 +8,6 @@
       "required": false
     },
     {
-      "id": "ctas",
-      "required": false
-    },
-    {
       "id": "department",
       "required": false
     },
@@ -21,6 +17,14 @@
     },
     {
       "id": "jobState",
+      "required": false
+    },
+    {
+      "id": "primaryCTA",
+      "required": false
+    },
+    {
+      "id": "secondaryCTA",
       "required": false
     }
   ]

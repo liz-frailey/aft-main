@@ -25,15 +25,19 @@
       "required": false
     },
     {
-      "id": "ctas",
-      "required": false
-    },
-    {
       "id": "menuCategory",
       "required": false
     },
     {
       "id": "price",
+      "required": false
+    },
+    {
+      "id": "primaryCTA",
+      "required": false
+    },
+    {
+      "id": "secondaryCTA",
       "required": false
     },
     {

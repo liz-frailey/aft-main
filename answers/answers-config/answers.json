@@ -22,6 +22,14 @@
       "sortBys": [],
       "source": "KNOWLEDGE_MANAGER"
     },
+    "CDC_COVID": {
+      "headers": {},
+      "method": "POST",
+      "name": "CDC Coronavirus FAQs",
+      "params": {},
+      "source": "CUSTOM_SEARCHER",
+      "url": "https://lps9q23cb7.execute-api.us-east-1.amazonaws.com/prod"
+    },
     "Conditions": {
       "entityTypes": [
         "ce_condition"
@@ -215,6 +223,14 @@
       "sortBys": [],
       "source": "KNOWLEDGE_MANAGER"
     },
+    "NHS_COVID": {
+      "headers": {},
+      "method": "POST",
+      "name": "NHS Coronavirus FAQs",
+      "params": {},
+      "source": "CUSTOM_SEARCHER",
+      "url": "https://qt81fms627.execute-api.us-east-1.amazonaws.com/prod"
+    },
     "Products": {
       "entityTypes": [
         "ce_product"
@@ -332,6 +348,14 @@
       },
       "sortBys": [],
       "source": "KNOWLEDGE_MANAGER"
+    },
+    "WHO_COVID": {
+      "headers": {},
+      "method": "POST",
+      "name": "WHO Coronavirus FAQs",
+      "params": {},
+      "source": "CUSTOM_SEARCHER",
+      "url": "https://twm82am3y0.execute-api.us-east-1.amazonaws.com/prod"
     }
   },
   "autocomplete": {
@@ -340,6 +364,17 @@
       "What is Yext?",
       "Services",
       "Locations near me"
+    ]
+  },
+  "synonyms": {
+    "oneWay": [],
+    "synonymSet": [
+      [
+        "covid",
+        "coronavirus",
+        "corona",
+        "virus"
+      ]
     ]
   },
   "localizations": {}
