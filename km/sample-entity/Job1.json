@@ -1,7 +1,7 @@
 {
   "$id": "Job1",
   "$schema": "https://schema.yext.com/config/km/sample-entity/v1",
-  "entityType": "job",
+  "entityType": "yext/job",
   "content": {
     "c_department": "Hitchhikers",
     "c_jobCity": "New York",
@@ -10,11 +10,11 @@
       "label": "Visit Page",
       "url": "https://www.yext.com"
     },
-    "yext.description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mattis molestie a iaculis at erat pellentesque adipiscing commodo. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Purus faucibus ornare suspendisse sed nisi lacus. Cursus turpis massa tincidunt dui ut ornare lectus sit amet.",
-    "yext.employmentType": "FULL_TIME",
-    "yext.hiringOrganization": "Yext",
-    "yext.jobLocation": "Loc1",
-    "yext.landingPageUrl": "https://www.yext.com",
-    "yext.name": "Yext Analyst"
+    "yext/description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mattis molestie a iaculis at erat pellentesque adipiscing commodo. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Purus faucibus ornare suspendisse sed nisi lacus. Cursus turpis massa tincidunt dui ut ornare lectus sit amet.",
+    "yext/employmentType": "FULL_TIME",
+    "yext/hiringOrganization": "Yext",
+    "yext/jobLocation": "Loc1",
+    "yext/landingPageUrl": "https://www.yext.com",
+    "yext/name": "Yext Analyst"
   }
 }

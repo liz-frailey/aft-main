@@ -1,18 +1,18 @@
 {
   "$id": "Loc1",
   "$schema": "https://schema.yext.com/config/km/sample-entity/v1",
-  "entityType": "location",
+  "entityType": "yext/location",
   "content": {
-    "yext.address": {
+    "yext/address": {
       "city": "New York",
       "countryCode": "US",
       "line1": "1 Madison Ave",
       "postalCode": "10010",
       "region": "NY"
     },
-    "yext.addressHidden": false,
-    "yext.description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mattis molestie a iaculis at erat pellentesque adipiscing commodo. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Purus faucibus ornare suspendisse sed nisi lacus. Cursus turpis massa tincidunt dui ut ornare lectus sit amet.",
-    "yext.hours": {
+    "yext/addressHidden": false,
+    "yext/description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mattis molestie a iaculis at erat pellentesque adipiscing commodo. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Purus faucibus ornare suspendisse sed nisi lacus. Cursus turpis massa tincidunt dui ut ornare lectus sit amet.",
+    "yext/hours": {
       "friday": {
         "isClosed": false,
         "openIntervals": [
@@ -77,10 +77,10 @@
         ]
       }
     },
-    "yext.mainPhone": "+17574070511",
-    "yext.name": "Yext",
-    "yext.timezone": "America/New_York",
-    "yext.websiteUrl": {
+    "yext/mainPhone": "+17574070511",
+    "yext/name": "Yext",
+    "yext/timezone": "America/New_York",
+    "yext/websiteUrl": {
       "displayUrl": "https://www.yext.com",
       "preferDisplayUrl": false,
       "url": "https://www.yext.com"

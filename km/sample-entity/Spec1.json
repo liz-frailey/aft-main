@@ -7,9 +7,9 @@
       "label": "Visit Page",
       "url": "https://www.yext.com"
     },
-    "yext.description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mattis molestie a iaculis at erat pellentesque adipiscing commodo. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Purus faucibus ornare suspendisse sed nisi lacus. Cursus turpis massa tincidunt dui ut ornare lectus sit amet.",
-    "yext.landingPageUrl": "https://www.yext.com",
-    "yext.logo": {
+    "yext/description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mattis molestie a iaculis at erat pellentesque adipiscing commodo. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Purus faucibus ornare suspendisse sed nisi lacus. Cursus turpis massa tincidunt dui ut ornare lectus sit amet.",
+    "yext/landingPageUrl": "https://www.yext.com",
+    "yext/logo": {
       "image": {
         "height": 1500,
         "sourceUrl": "http://clipart-library.com/images/zcX5B4z9i.jpg",
@@ -29,6 +29,6 @@
         "width": 1500
       }
     },
-    "yext.name": "Specialty"
+    "yext/name": "Specialty"
   }
 }

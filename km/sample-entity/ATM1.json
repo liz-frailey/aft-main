@@ -1,18 +1,18 @@
 {
   "$id": "ATM1",
   "$schema": "https://schema.yext.com/config/km/sample-entity/v1",
-  "entityType": "atm",
+  "entityType": "yext/atm",
   "content": {
-    "yext.address": {
+    "yext/address": {
       "city": "New York",
       "countryCode": "US",
       "line1": "1 Madison Ave",
       "postalCode": "10010",
       "region": "NY"
     },
-    "yext.name": "Yext ATM",
-    "yext.timezone": "America/New_York",
-    "yext.websiteUrl": {
+    "yext/name": "Yext ATM",
+    "yext/timezone": "America/New_York",
+    "yext/websiteUrl": {
       "displayUrl": "https://www.yext.com",
       "preferDisplayUrl": false,
       "url": "https://www.yext.com"
